@@ -1,0 +1,78 @@
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Karaktergivende.exe
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Karaktergivende.pdb
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\obj\x86\Debug\Karaktergivende.csprojResolveAssemblyReference.cache
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\obj\x86\Debug\Karaktergivende.exe
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\obj\x86\Debug\Karaktergivende.pdb
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\buggy.xnb
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_bk.xnb
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_dn.xnb
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_ft.xnb
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_lf.xnb
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_rt.xnb
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_up.xnb
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\ground_stone.xnb
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\bilterreng.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\buggy_.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\buggy.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\skybox_texture.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\Steiner.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\sorbin_bk.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\sorbin_dn.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\sorbin_ft.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\sorbin_lf.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\sorbin_rt.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\sorbin_up.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_bk.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_dn.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_ft.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_lf.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_rt.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_up.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\darkcity_bk.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\darkcity_dn.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\darkcity_ft.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\darkcity_lf.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\darkcity_rt.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\darkcity_up.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\alps_bk.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\alps_dn.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\alps_ft.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\alps_lf.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\alps_rt.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\alps_up.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\hexagon_bk.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\hexagon_ft.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\hexagon_lf.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\hexagon_rt.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\hexagon_up.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\ground_stone.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\bilterreng.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\hoydekart.xnb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Karaktergivende.exe
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Karaktergivende.pdb
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\obj\x86\Debug\Karaktergivende.csprojResolveAssemblyReference.cache
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\obj\x86\Debug\Karaktergivende.exe
+C:\Users\Ole Petter\Dropbox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\obj\x86\Debug\Karaktergivende.pdb
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\reklame.xnb
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\Arial.xnb
+E:\DropBox\HiN\Høst2013\Datamaskingrafikk\Karaktergivende\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\terraineffect.xnb
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_bk.xnb
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_dn.xnb
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_ft.xnb
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_lf.xnb
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_rt.xnb
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\miramar_up.xnb
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\ground_stone.xnb
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\bilterreng.xnb
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\reklame.xnb
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\terraineffect.xnb
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Content\buggy.xnb
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Karaktergivende.exe
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\bin\x86\Debug\Karaktergivende.pdb
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\obj\x86\Debug\Karaktergivende.exe
+C:\Users\Stasjon\Documents\Karaktergivende_OPWA\Karaktergivende_OPWA\Karaktergivende\Karaktergivende\obj\x86\Debug\Karaktergivende.pdb
